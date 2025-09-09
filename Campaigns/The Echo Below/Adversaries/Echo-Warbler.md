@@ -1,0 +1,13 @@
+- **Tier:** 1 Minion (group of 3–5)  
+- **Difficulty:** 11  
+- **Thresholds:** Major 6 / Severe 10  
+- **HP:** 2 each (or collective 6)  
+- **Stress:** 1  
+- **ATK:** +1 | Beak & Claw (Very Close, 1d6)  
+- **Experience:** Distorted +1  
+- **Features:**  
+  - *Mimicry:* Once/round, repeat PC words wrong → Instinct DC 12 or mark 1 Stress.  
+  - *Swarm Flight:* On 0 HP, burst screech → all PCs mark +1 Fear unless Presence DC 11.  
+- **Fear Moves:**  
+  - *Voice Overlap:* Disadvantage on PC’s next roll.  
+  - *Paranoia Spike:* Two PCs hear their own names whispered as if from each other.  

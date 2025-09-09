@@ -1,0 +1,13 @@
+- Tier: 1 Minion  
+- Difficulty: 11  
+- Thresholds: Major 7 / Severe 12  
+- HP: 3  
+- Stress: 1  
+- ATK: +1 | Jagged Dagger (Very Close, 1d6)  
+- Experience: Fanatic +1  
+- **Features:**  
+  - Hidden in Prayer: Advantage on first stealth strike.  
+  - Shriek of Faith: On 0 HP → all PCs within Close mark 1 Stress.  
+- **Fear Moves:**  
+  - Blood Chant: Add +1 Fear to scene.  
+  - Mirror Bark: Sigils flare → Disadvantage on PC’s next roll.  

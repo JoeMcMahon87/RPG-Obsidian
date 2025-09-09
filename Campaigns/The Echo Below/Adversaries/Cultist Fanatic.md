@@ -1,0 +1,13 @@
+- Tier: 1 Standard  
+- Difficulty: 12  
+- Thresholds: Major 8 / Severe 14  
+- HP: 6  
+- Stress: 2  
+- ATK: +2 | Resonance Staff (Close, 1d8+2, resonance + physical)  
+- Experience: Zealotry +2  
+- **Features:**  
+  - Sigil Bind: Instinct DC 12 or PC bound in roots until next turn.  
+  - Resonant Frenzy: At half HP, all allies gain +1 on attack rolls.  
+- **Fear Moves:**  
+  - Violet Vision: PC marks 1 Stress seeing their death in the Core’s awakening.  
+  - Echoed Orders: Scouts act twice next round.  
