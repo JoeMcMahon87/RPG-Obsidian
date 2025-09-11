@@ -1,0 +1,4 @@
+- Ragged shrine-keeper, unstable.  
+- Dialogue: “Blood makes the stones sing.” / “The bell rope waits.”  
+- Motivation: Protect the shrines, but mentally unstable.  
+- Quirk: Words echo twice.  

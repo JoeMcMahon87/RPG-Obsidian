@@ -1,0 +1,3 @@
+- Wounded, bargains for freedom.  
+- Possible knowledge: Baled as destination, but may lie.  
+- Motivation: Survival.  
